@@ -262,3 +262,4 @@ except:
 import ramdom #ou from random import randint()
 number = random.randint(1,100)
 print(number) # print()
+
